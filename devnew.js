@@ -1,0 +1,1 @@
+console.log(findList(allList,'1802231546480500957'))
